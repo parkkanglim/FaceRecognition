@@ -1,0 +1,80 @@
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\Resources\haarcascade_frontalface_default.xml
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.exe
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.deps.json
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.runtimeconfig.json
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.pdb
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.Form1.resources
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.GenerateResource.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.AssemblyInfo.cs
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.CopyComplete
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\refint\FaceRecognition.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.pdb
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.genruntimeconfig.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\obj\Debug\net6.0-windows\ref\FaceRecognition.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\Resources\haarcascade_frontalface_default.xml
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.exe
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.deps.json
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.runtimeconfig.json
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\FaceRecognition.pdb
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\Emgu.CV.Bitmap.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Development\study\FaceRecognition\FaceRecognition\bin\Debug\net6.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.AssemblyReference.cache
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.Form1.resources
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.GenerateResource.cache
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.AssemblyInfoInputs.cache
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.AssemblyInfo.cs
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.csproj.CopyComplete
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.dll
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\refint\FaceRecognition.dll
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.pdb
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\FaceRecognition.genruntimeconfig.cache
+C:\Development\study\FaceRecognition\FaceRecognition\obj\Debug\net6.0-windows\ref\FaceRecognition.dll

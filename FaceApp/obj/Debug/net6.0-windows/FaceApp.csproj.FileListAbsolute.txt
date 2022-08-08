@@ -1,0 +1,52 @@
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\realsense2.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.exe
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.deps.json
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.runtimeconfig.json
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.pdb
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\Intel.RealSense.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.AssemblyReference.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.Form1.resources
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.GenerateResource.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.AssemblyInfoInputs.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.AssemblyInfo.cs
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.CoreCompileInputs.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.CopyComplete
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\refint\FaceApp.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.pdb
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\FaceApp.genruntimeconfig.cache
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\obj\Debug\net6.0-windows\ref\FaceApp.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\realsense2.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\FaceApp.exe
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\FaceApp.deps.json
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\FaceApp.runtimeconfig.json
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\FaceApp.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\FaceApp.pdb
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\Intel.RealSense.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Development\study\FaceRecognition\FaceApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.AssemblyReference.cache
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.Form1.resources
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.GenerateResource.cache
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.AssemblyInfoInputs.cache
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.AssemblyInfo.cs
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.CoreCompileInputs.cache
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.csproj.CopyComplete
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.dll
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\refint\FaceApp.dll
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.pdb
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\FaceApp.genruntimeconfig.cache
+C:\Development\study\FaceRecognition\FaceApp\obj\Debug\net6.0-windows\ref\FaceApp.dll

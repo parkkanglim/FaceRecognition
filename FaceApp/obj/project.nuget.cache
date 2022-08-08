@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVfHvcSw+bZL9wIRwD02lCs3C71Ln/C7z2WAzhw693mG3/uL8251+DwpXoOghkaInSZVJNaQ1Q+8mYe9iLeqTw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\study\\FaceRecognition\\FaceApp\\FaceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr199\\.nuget\\packages\\intel.realsensewithnativedll\\2.47.0\\intel.realsensewithnativedll.2.47.0.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\opencvsharp4\\4.6.0.20220608\\opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\opencvsharp4.extensions\\4.6.0.20220608\\opencvsharp4.extensions.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\opencvsharp4.runtime.win\\4.6.0.20220608\\opencvsharp4.runtime.win.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\opencvsharp4.windows\\4.6.0.20220608\\opencvsharp4.windows.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

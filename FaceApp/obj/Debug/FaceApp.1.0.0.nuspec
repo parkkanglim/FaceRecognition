@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FaceApp</id>
+    <version>1.0.0</version>
+    <authors>FaceApp</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Intel.RealSenseWithNativeDll" version="2.47.0" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4.Extensions" version="4.6.0.20220608" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4.Windows" version="4.6.0.20220608" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/realsense2.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.runtimeconfig.json" target="lib\net6.0-windows7.0\FaceApp.runtimeconfig.json" />
+    <file src="C:\Users\gr199\OneDrive\바탕 화면\FaceApp\FaceApp\bin\Debug\net6.0-windows\FaceApp.dll" target="lib\net6.0-windows7.0\FaceApp.dll" />
+    <file src="C:\Users\gr199\.nuget\packages\intel.realsensewithnativedll\2.47.0\build\realsense2.dll" target="content\realsense2.dll" />
+    <file src="C:\Users\gr199\.nuget\packages\intel.realsensewithnativedll\2.47.0\build\realsense2.dll" target="contentFiles\any\net6.0-windows7.0\realsense2.dll" />
+  </files>
+</package>

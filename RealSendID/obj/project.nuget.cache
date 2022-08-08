@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaGwsQvCf2/nPdVZgwBRru6OsSLWco38El8qDYyMUaMN2A7DnKi1Rrkcvbgjb+csNTOZTqEPm0WTA9MYWcUmeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\study\\FaceRecognition\\RealSendID\\RealSendID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr199\\.nuget\\packages\\opencvsharp4\\4.6.0.20220608\\opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\gr199\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

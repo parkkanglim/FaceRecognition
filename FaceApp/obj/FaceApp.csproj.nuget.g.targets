@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)intel.realsensewithnativedll\2.47.0\build\Intel.RealSenseWithNativeDll.targets" Condition="Exists('$(NuGetPackageRoot)intel.realsensewithnativedll\2.47.0\build\Intel.RealSenseWithNativeDll.targets')" />
+  </ImportGroup>
+</Project>
